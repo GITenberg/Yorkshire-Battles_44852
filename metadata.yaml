@@ -1,0 +1,26 @@
+_repo: Yorkshire-Battles_44852
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lamplough, Edward
+    gutenberg_agent_id: '42948'
+    url: http://www.gutenberg.org/2009/agents/42948
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44852'
+  lccn: 02021739
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Yorkshire (England) -- History, Military'
+- !lcsh 'Battles -- England -- Yorkshire'
+title: Yorkshire Battles
+url: http://www.gutenberg.org/ebooks/44852
